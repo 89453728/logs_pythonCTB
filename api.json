@@ -1,0 +1,43 @@
+{
+    "result": {
+        "0": {
+            "update_id": 278627676378,
+            "message": {
+                "message_id": 134,
+                "from": {
+                    "id": 1878893,
+                    "is_bot": false,
+                    "first_name": "dabro",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 1878893,
+                    "username": "usuario11",
+                    "first_name": "dabro",
+                    "type": "private"
+                },
+                "date": 209093902,
+                "text": "aqui va el mensaje"
+            }
+        },
+        "1": {
+            "update_id": 2837897893,
+            "message": {
+                "message_id": 43,
+                "from": {
+                    "id": 3463636,
+                    "is_bot": false,
+                    "first_name": "jesica",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 3463636,
+                    "first_name": "jesica",
+                    "type": "private"
+                },
+                "date": 48798398893,
+                "text": "aqui va el otro mensaje"
+            }
+        }
+    }
+}
