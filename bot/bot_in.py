@@ -2,7 +2,7 @@ import telegram
 from telegram.ext import *
 import time
 
-token = "1625126519:AAGnz_ptXJXn21Nz7zPoNFR_LAhiQfYXruY"
+token = "put your token"
 repeat = False
 
 def dani (update: Updater, context: CallbackContext) -> None:
